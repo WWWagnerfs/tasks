@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1024237224890",
+    "project_id": "task-b1703",
+    "storage_bucket": "task-b1703.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024237224890:android:1c64caeda718a453275383",
+        "android_client_info": {
+          "package_name": "com.wagner"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqqKgfvJjFKz7DWQjTEDFq33icUkGZW9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
